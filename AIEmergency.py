@@ -50,7 +50,7 @@ def set_background(image_file):
     )
 
 
-set_background("background.jpeg")
+set_background("background.jpg")
 
 
 
