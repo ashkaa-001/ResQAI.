@@ -263,7 +263,7 @@ Hazards:
 Severity:
 
 Recommended Immediate Action:
-<short action based ONLY on the information provided>
+<detailed action based ONLY on the information provided in about 5-6 lines>
 
 
 Rules:
